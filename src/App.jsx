@@ -6,7 +6,7 @@ import "swiper/css/effect-coverflow";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
 
-import { EffectCoverflow, Pagination, Navigation } from "swiper";
+import { EffectCoverflow, Pagination, Navigation } from "swiper/modules";
 
 import slide_image_1 from "./assets/images/img_1.jpg";
 import slide_image_2 from "./assets/images/img_2.jpg";
